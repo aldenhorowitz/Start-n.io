@@ -1,0 +1,7 @@
+virtualenv -p C:/n.io/Python34/python.exe 1.5.1
+source 1.5.1/scripts/activate
+ssh git.gitbub.com
+cd getting_started
+run_nio
+
+http://builder.n.io
